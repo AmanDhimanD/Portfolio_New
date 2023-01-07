@@ -17,10 +17,10 @@ const Certificate = () => {
               <div class="h-1 w-20 bg-pink-500 rounded"></div>
             </div>
             <p class="lg:w-1/2 w-full leading-relaxed text-gray-400 text-opacity-90">
-              Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
+               {/* Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
               gentrify, subway tile poke farm-to-table. Franzen you probably
               haven't heard of them man bun deep jianbing selfies heirloom prism
-              food truck ugh squid celiac humblebrag.
+              food truck ugh squid celiac humblebrag. */}
             </p>
           </div>
           <div class="flex flex-wrap -m-4">
